@@ -1,5 +1,5 @@
 module OpenCL [system] {
-    header "/usr/include/CL/cl.h"
+    header "/usr/include/CL/cl_gl.h"
     link "OpenCL"
     export *
 }
